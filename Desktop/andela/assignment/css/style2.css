@@ -1,0 +1,73 @@
+body{
+    background: url("../img/screen.jpg");
+    background-size: cover;
+    color:white;
+    font-family: 'Sofia', cursive
+}
+img
+{
+	width:100%;
+}
+.container
+{
+	margin:auto;
+	
+}
+
+#navbar
+{
+	text-transform:uppercase;
+}
+#navbar li
+{
+	display:inline;
+	padding-right:20px;
+	list-style:none;
+
+}
+#navbar a
+{
+text-decoration:none;
+color:white;	
+}
+#navbar li.current a, #navbar a:hover
+{
+	color:black; 
+	border-bottom:3px solid black;
+	padding-bottom:3px;
+}
+.par{
+    font-size: 23px;
+}
+#main-footer{
+    font-size: 20px;
+}
+#main-footer a{
+    color:white;
+    padding-bottom: 10px;
+}
+i .fa{
+    font-size: 40px;
+}
+.size{
+    font-size: 25px;
+}
+.size a{
+    text-decoration: none;
+}
+q.size fa{
+    background-color: black;
+}
+#main-footer .fa{
+    font-size: 30px;
+}
+#contact{
+    background:#333;
+	color:#fff;
+	border-radius:50px;
+    padding:40px;
+	opacity:0.9;
+}
+#contact a{
+    color:  white;
+}

@@ -1,0 +1,11 @@
+body{
+    background: url("../img/img.png") ;
+    background-size: cover;
+}
+.start a{
+    color :black;
+}
+.start{
+    font-size: 30px;
+    color:black;
+}
